@@ -27,16 +27,16 @@ This project solves these challenges by building an interactive Power BI dashboa
 - Source: Kaggle
 - Total Records: 6000+ rows
 - Domain: E-commerce / Retail 
-Sample Features:
-Order ID
-Product Category
-Quantity Sold
-Total Revenue
-Discount Percentage
-Customer Region
-Payment Method
-Rating
-Order Date
+- Sample Features:
+ Order ID
+ Product Category
+ Quantity Sold
+ Total Revenue
+ Discount Percentage
+ Customer Region
+ Payment Method
+ Rating
+ Order Date
 
 ## 🛠️ Tools & Technologies Used
 🔹 Advanced Excel

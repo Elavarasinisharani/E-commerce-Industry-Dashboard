@@ -52,22 +52,22 @@ DAX Measures
 Interactive Dashboard Creation
 
 ## 🔄 Data Processing Workflow
-1. Data Collection
+1. Data Collection:
 Imported dataset from Kaggle
 
-2. Data Cleaning (Excel)
+2. Data Cleaning (Excel):
 Removed null values
 Eliminated duplicates
 Standardized formats
 Fixed inconsistencies
 
-3. Data Transformation (Power BI - PQE)
+3. Data Transformation (Power BI - PQE):
 Data type corrections
 Column transformations
 Created calculated columns
 Applied business logic
 
-4. Dashboard Development
+4. Dashboard Development:
 KPIs (Total Orders, Revenue, Avg Rating, AOV)
 Visualizations (Bar, Line, Map, Donut, Pie)
 Filters & Slicers 

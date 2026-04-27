@@ -73,11 +73,11 @@ Visualizations (Bar, Line, Map, Donut, Pie)
 Filters & Slicers 
 
 ## 📊 Dashboard Visualizations
-📊 Bar Chart → Product Category Performance
-📈 Line Chart → Avg Rating by product_category
-🗺️ Map → Regional Sales Distribution
-🍩 Donut Chart → Total revenue by product category
-🥧 Pie Chart → Total Orders by customer_region
+- 📊 Bar Chart → Product Category Performance
+- 📈 Line Chart → Avg Rating by product_category
+- 🗺️ Map → Regional Sales Distribution
+- 🍩 Donut Chart → Total revenue by product category
+- 🥧 Pie Chart → Total Orders by customer_region
 
 ## 📈 Key Insights from Dashboard
 - Certain categories drive higher sales volume
